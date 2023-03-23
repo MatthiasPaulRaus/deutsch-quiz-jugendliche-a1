@@ -1,0 +1,138 @@
+*{
+    font-size: 18px;
+    font-family: 'Roboto Slab', sans-serif;
+    }
+    body{
+        background: hsl(200, 80%, 70%);
+    }
+    .title{
+        padding-top: 15px;
+        text-align: center;
+        color:hsl(243, 29%, 33%);
+    }
+    
+    .container{
+        max-width:500px;
+        padding-top:10px;
+        /*padding-bottom:15px;*/
+        margin-top:20px ;
+        margin-left:auto;
+        margin-right:auto;
+        align-self: center;
+        background: hsla(0, 0%, 100%, 0.5); 
+        border-radius:  20px;
+    }
+    
+    .question{
+        padding:20px;
+        margin:15px;
+        background: hsl(242, 70%, 62%);
+        border-radius: 20px;
+        color: hsl(0, 0%, 96%);
+    }
+    
+    .option{
+        display: inline-block;
+        text-align: left;
+        background: hsla(0, 0%, 100%, 0.5); 
+        margin: 15px;
+        padding: 15px;
+        color:hsl(0, 0%, 0%);
+        border-radius: 20px;
+    }
+    .option:hover{
+        background:hsl(242, 64%, 62%);
+        color: hsl(0, 0%, 96%) ;
+        transition-duration: 0.4s;
+    }
+    
+    .answer-btn {
+        width:100px;
+        border: none;
+        outline: none;
+        background:hsla(0, 0%, 100%, 0.5); 
+        border-radius: 20px;
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:20px;
+        margin-bottom:15px;
+        padding: 20px;
+        color: hsl(0, 0%, 96%) ;
+        transition-duration: 0.4s;
+    }
+    
+    .next-btn {
+        width:100px;
+        border: none;
+        outline: none;
+        background:hsla(0, 0%, 100%, 0.5); 
+        border-radius: 20px;
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:15px;
+        padding: 20px;
+        transition-duration: 0.4s;
+    }
+    
+    .end-btn{
+        border: none;
+        outline: none;
+        background:hsla(0, 0%, 100%, 0.5); 
+        border-radius: 20px;
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:200px;
+        margin-bottom:15px;
+        padding: 20px;
+        transition-duration: 0.4s;
+    }
+    
+    .result{
+        text-align: center;
+        font-size: 50px;
+        margin-top:150px;
+    }
+    
+    .repeat-btn{
+        border: none;
+        outline: none;
+        background:hsla(0, 0%, 100%, 0.5); 
+        border-radius: 20px;
+        text-align: center;
+        margin-left:30%;
+        margin-right:30%;
+        margin-top:50px;
+        margin-bottom:15px;
+        padding: 20px;
+        transition-duration: 0.4s;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
