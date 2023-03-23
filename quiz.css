@@ -8,7 +8,7 @@
     .title{
         padding-top: 15px;
         text-align: center;
-        color:hsl(243, 29%, 33%);
+        color:hsl(242, 70%, 62%);
     }
     
     .container{
@@ -58,7 +58,7 @@
         margin-top:20px;
         margin-bottom:15px;
         padding: 20px;
-        color: hsl(0, 0%, 96%) ;
+        color: hsl(242, 70%, 62%) ;
         transition-duration: 0.4s;
     }
     
@@ -66,6 +66,7 @@
         width:100px;
         border: none;
         outline: none;
+        color:hsl(242, 70%, 62%);
         background:hsla(0, 0%, 100%, 0.5); 
         border-radius: 20px;
         text-align: center;
